@@ -29,7 +29,7 @@ class JugadoresPagina extends React.Component {
             <p><strong>Hace cuanto ingresó al equipo:</strong> 1 año</p>
           </div>
           <div className="player-image">
-            <img src="../img/jugadores/niten.png" alt="VodKhaN" />
+            <img src="../img/jugadores/niten.png" alt="NiteN" />
           </div>
         </div>
 
@@ -43,7 +43,7 @@ class JugadoresPagina extends React.Component {
             <p><strong>Hace cuanto ingresó al equipo:</strong> 2 años</p>
           </div>
           <div className="player-image">
-            <img src="../img/jugadores/xalenv.png" alt="VodKhaN" />
+            <img src="../img/jugadores/xalenv.png" alt="Xalenv" />
           </div>
         </div>
 
@@ -57,7 +57,7 @@ class JugadoresPagina extends React.Component {
             <p><strong>Hace cuanto ingresó al equipo:</strong> 2 años</p>
           </div>
           <div className="player-image">
-            <img src="../img/jugadores/reckless.png" alt="VodKhaN" />
+            <img src="../img/jugadores/reckless.png" alt="Reckless" />
           </div>
         </div>
 
@@ -71,7 +71,7 @@ class JugadoresPagina extends React.Component {
             <p><strong>Hace cuanto ingresó al equipo:</strong> 3 años</p>
           </div>
           <div className="player-image">
-            <img src="../img/jugadores/neichs.png" alt="VodKhaN" />
+            <img src="../img/jugadores/neichs.png" alt="NeichS" />
           </div>
         </div>
 

@@ -46,7 +46,7 @@ class Otros extends Component {
 
     render() {
         return (
-            <div>
+            <div className="Otros">
                 <div className="gameList">
                     {this.state.juegos.map((game) => (
                         <div className="col-lg-3 col-md-6 col-sm-12" key={game.id}>

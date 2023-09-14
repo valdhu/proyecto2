@@ -1,5 +1,6 @@
 import React from "react";
 import 'bootstrap-icons/font/bootstrap-icons.css';
+import './ContactoPagina.css';
 
 class ContactoPagina extends React.Component {
   constructor(props) {
@@ -28,7 +29,7 @@ class ContactoPagina extends React.Component {
 
   render() {
     return (
-      <div className="container-fluid">
+      <div className="container-fluid contact-form">
         <div className="row">
           <div className="col-12 col-sm-6">
             <h2>
@@ -92,6 +93,6 @@ class ContactoPagina extends React.Component {
       </div>
     );
   }
-}
+}  
 
 export default ContactoPagina;

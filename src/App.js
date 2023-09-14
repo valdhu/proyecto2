@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import './App.css';
 
-import Menu from './componentes/Menu';
+import Navbar from './componentes/Navbar';
 import InicioPagina from './paginas/InicioPagina';
 import ContactoPagina from './paginas/ContactoPagina';
 import JugadoresPagina from './paginas/JugadoresPagina';
@@ -13,7 +14,7 @@ class App extends Component {
     return (
       <Router>
         <div>
-          <Menu />
+          <Navbar />
           <div className="container pt-5 mt-5">
             <Routes>
               <Route
